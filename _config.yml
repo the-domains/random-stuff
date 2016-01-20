@@ -2,6 +2,7 @@ name: Random Stuff
 favicon: null
 layout_spectrum: 0.08092696079984307
 typography_spectrum: 0.19764
+title: A Random Title
 cta:
   domain: null
   bucket: null
