@@ -1,7 +1,7 @@
 name: Random Stuff
 favicon: null
 layout_spectrum: 0.08092696079984307
-typography_spectrum: 0.7475397686939687
+typography_spectrum: 0.19764
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#d1d1d1'
+    - '#6c6c6c'
+    - '#131313'
+    - '#4e4e4e'
+    - '#b34334'
   brandStrength: 0.6030884094070643
   lightness: 0.442372583784163
   saturation: 0.5504740062169731
